@@ -1,7 +1,9 @@
 # Hi, I am Gaurav Borse 👋
+#### A passionate Full-Stack Web Developer from India. I'm currently a final-year Information Technology major at ZCOER. My areas of interest are Web Development and Opensource Software.
 
-## 💫 About Me:
-Currently a final-year Information Technology major at ZCOE. My areas of interest are Web Development and Opensource Software.
+## 🧑‍💻 Portfolio Links:
+### 📃 <a href="https://drive.google.com/file/d/1jU4__okwMUfUrPA5s8ulZ3zDJhHP7LZb/view?usp=sharing" target="_blank">Resume</a>
+### 💻 <a href="https://bio.site/gauravborse" target="_blank">Website</a>
 
 
 ## 🌐 Socials:

@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 Portfolio Links:
 ### 📃 <a href="https://drive.google.com/file/d/1jU4__okwMUfUrPA5s8ulZ3zDJhHP7LZb/view?usp=sharing" target="_blank">Resume</a>
-### 💻 <a href="[https://bio.site/gauravborse](https://gauravborse.vercel.app/)" target="_blank">Website</a>
+### 💻 <a href="https://gauravborse.vercel.app/" target="_blank">Website</a>
 
 
 ## 🌐 Socials:
